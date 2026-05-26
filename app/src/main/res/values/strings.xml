@@ -153,4 +153,11 @@
     <string name="dialog_no_notification_alert_title">Notification Permission Not Granted</string>
     <string name="open_notification_settings">Goto notification settings</string>
     <string name="dont_show_again">Don\'t show again</string>
+    <string name="pref_vpn_mode">VPN Mode</string>
+    <string name="pref_category_socks5">SOCKS5 Proxy Settings</string>
+    <string name="pref_socks5_port">SOCKS5 Port</string>
+    <string name="pref_socks5_username">Username (Optional)</string>
+    <string name="pref_socks5_password">Password (Optional)</string>
+    <string name="pref_socks5_enable_auth">Enable Authentication</string>
+    <string name="socks5_server_started">SOCKS5 server started on port %d</string>
 </resources>

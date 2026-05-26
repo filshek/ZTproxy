@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vpn_mode_entries">
+        <item>TUN VPN Mode</item>
+        <item>SOCKS5 Proxy Mode</item>
+    </string-array>
+    <string-array name="vpn_mode_values">
+        <item>tun</item>
+        <item>socks5</item>
+    </string-array>
+</resources>
